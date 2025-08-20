@@ -66,22 +66,22 @@ Run on a Webcam
 python app.py --source cam --path 0
 ```
 ## 📊 Outputs
-# Real-time Window:
--Vehicles detected + tracked with unique IDs
--Counting lines drawn
--Live counts per line
--FPS displayed
+### Real-time Window:
+- Vehicles detected + tracked with unique IDs
+- Counting lines drawn
+- Live counts per line
+- FPS displayed
 
-# CSV File (output.csv):
-VehicleID,Line,Frame,Timestamp
--3,1,45,1.52
--7,2,123,3.98
+### CSV File (output.csv):
+#### VehicleID,Line,Frame,Timestamp
+- 3,1,45,1.52
+- 7,2,123,3.98
 
-# Final Summary (on window close):
-=== FINAL SUMMARY ===
--Line 1: 15 vehicles
--Line 2: 22 vehicles
--Line 3: 10 vehicles
+### Final Summary (on window close):
+#### === FINAL SUMMARY ===
+- Line 1: 15 vehicles
+- Line 2: 22 vehicles
+- Line 3: 10 vehicles
 
 ### 📂 Project Structure
 Traffic-Flow-Analysis/
