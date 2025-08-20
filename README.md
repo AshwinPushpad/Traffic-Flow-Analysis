@@ -27,17 +27,22 @@ It analyzes a video or live camera feed, detects vehicles, tracks their movement
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/AshwinPushpad/Traffic-Flow-Analysis)
+git clone https://github.com/AshwinPushpad/Traffic-Flow-Analysis
 cd Traffic-Flow-Analysis
 ```
 
 ### 2. Create Virtual Environment (recommended)
 ```bash
 python -m venv .venv
-source .venv/bin/activate    # Linux/Mac
 .venv\Scripts\activate       # Windows
+# source .venv/bin/activate    # Linux/Mac
 ```
-### 3. Install Dependencies
+
+
+### 3. Download Test video from:
+# https://drive.google.com/file/d/1_14ZzfBrVzl6QQZ-vtdEvSFbBBf8VxID/view?usp=sharing
+
+### 4. Install Dependencies
 ```bash
 pip install -r requirements.txt
 ```
