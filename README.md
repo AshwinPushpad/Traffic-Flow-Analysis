@@ -84,8 +84,8 @@ python app.py --source cam --path 0
 - Line 3: 10 vehicles
 
 ### 📂 Project Structure
-Traffic-Flow-Analysis/
--│── app.py              # main program
--│── README.md           # setup and usage guide
--│── requirements.txt    # dependencies
--│── traffic.mp4         # sample input video (not included, add your own)
+### Traffic-Flow-Analysis/
+- │── app.py              # main program
+- │── README.md           # setup and usage guide
+- │── requirements.txt    # dependencies
+- │── traffic.mp4         # sample input video (not included, add your own)
