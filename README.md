@@ -73,18 +73,18 @@ python app.py --source cam --path 0
 - FPS displayed
 
 ### CSV File (output.csv):
-#### VehicleID,Line,Frame,Timestamp
+VehicleID,Line,Frame,Timestamp
 - 3,1,45,1.52
 - 7,2,123,3.98
 
 ### Final Summary (on window close):
-#### === FINAL SUMMARY ===
+=== FINAL SUMMARY ===
 - Line 1: 15 vehicles
 - Line 2: 22 vehicles
 - Line 3: 10 vehicles
 
 ### 📂 Project Structure
-### Traffic-Flow-Analysis/
+Traffic-Flow-Analysis/
 - │── app.py              # main program
 - │── README.md           # setup and usage guide
 - │── requirements.txt    # dependencies
