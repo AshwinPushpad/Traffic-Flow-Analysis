@@ -40,7 +40,7 @@ python -m venv .venv
 
 
 ### 3. Download Test video from:
-# https://drive.google.com/file/d/1_14ZzfBrVzl6QQZ-vtdEvSFbBBf8VxID/view?usp=sharing
+- https://drive.google.com/file/d/1_14ZzfBrVzl6QQZ-vtdEvSFbBBf8VxID/view?usp=sharing
 
 ### 4. Install Dependencies
 ```bash
